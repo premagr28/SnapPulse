@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SnapPulse</string>
+    <string name="title_snap_map">Snap Map</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_stories">Stories</string>
+    <string name="title_spotlight">Spotlight</string>
+    <string name="ghost_mode">Ghost Mode</string>
+    <string name="ghost_mode_desc">When enabled, your friends can\'t see your location</string>
+    <string name="send_message_hint">Send a chat...</string>
+    <string name="permission_required">Permissions Required</string>
+    <string name="grant_permissions">Enable Permissions</string>
+</resources>

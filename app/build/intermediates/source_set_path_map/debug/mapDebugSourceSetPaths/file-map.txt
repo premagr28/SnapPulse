@@ -1,0 +1,76 @@
+com.snappulse.app-fragment-1.3.6-0 C:\Users\Prem\.gradle\caches\transforms-4\013b5cfdf84ed2b56df67a50ae97319b\transformed\fragment-1.3.6\res
+com.snappulse.app-appcompat-resources-1.6.1-1 C:\Users\Prem\.gradle\caches\transforms-4\02c435236337fd11a9d04a6cae15ed53\transformed\appcompat-resources-1.6.1\res
+com.snappulse.app-material-icons-core-release-2 C:\Users\Prem\.gradle\caches\transforms-4\07cfc1dee6799ee5d5dabd409e6b612c\transformed\material-icons-core-release\res
+com.snappulse.app-lifecycle-livedata-core-2.8.6-3 C:\Users\Prem\.gradle\caches\transforms-4\0956a2cf5fc9c70a332d05d30416bc20\transformed\lifecycle-livedata-core-2.8.6\res
+com.snappulse.app-maps-compose-4.4.1-4 C:\Users\Prem\.gradle\caches\transforms-4\138cdcf256810cf43ac88e9dd0e18e8f\transformed\maps-compose-4.4.1\res
+com.snappulse.app-ui-geometry-release-5 C:\Users\Prem\.gradle\caches\transforms-4\141707aeed5e570375b6bd84013459e5\transformed\ui-geometry-release\res
+com.snappulse.app-core-runtime-2.2.0-6 C:\Users\Prem\.gradle\caches\transforms-4\16acd163af1c1f892375c563dd496daa\transformed\core-runtime-2.2.0\res
+com.snappulse.app-camera-camera2-1.3.4-7 C:\Users\Prem\.gradle\caches\transforms-4\17465981613f24dc15c108bb67d45c7c\transformed\camera-camera2-1.3.4\res
+com.snappulse.app-media3-ui-1.4.1-8 C:\Users\Prem\.gradle\caches\transforms-4\1777a4931b479e6c022ea31004798919\transformed\media3-ui-1.4.1\res
+com.snappulse.app-ui-unit-release-9 C:\Users\Prem\.gradle\caches\transforms-4\177dbd9e04c00837ce753f56c934c36f\transformed\ui-unit-release\res
+com.snappulse.app-material-release-10 C:\Users\Prem\.gradle\caches\transforms-4\1917fa22378b36405e1f1e742f66cf3f\transformed\material-release\res
+com.snappulse.app-runtime-saveable-release-11 C:\Users\Prem\.gradle\caches\transforms-4\219af8de0337493569e17dcffde928ab\transformed\runtime-saveable-release\res
+com.snappulse.app-customview-poolingcontainer-1.0.0-12 C:\Users\Prem\.gradle\caches\transforms-4\25d570ba16ded848dc49bf520c424ce7\transformed\customview-poolingcontainer-1.0.0\res
+com.snappulse.app-play-services-base-18.5.0-13 C:\Users\Prem\.gradle\caches\transforms-4\2a5b9d492dd20094cfe33d0e543486a5\transformed\play-services-base-18.5.0\res
+com.snappulse.app-camera-view-1.3.4-14 C:\Users\Prem\.gradle\caches\transforms-4\2abfdac88ed9f74660a207543592c808\transformed\camera-view-1.3.4\res
+com.snappulse.app-camera-lifecycle-1.3.4-15 C:\Users\Prem\.gradle\caches\transforms-4\2f7a52b938a50201ded8b1066cd39ad4\transformed\camera-lifecycle-1.3.4\res
+com.snappulse.app-activity-ktx-1.9.2-16 C:\Users\Prem\.gradle\caches\transforms-4\303cb58bb730d1d5647c1f380e03ad82\transformed\activity-ktx-1.9.2\res
+com.snappulse.app-annotation-experimental-1.4.1-17 C:\Users\Prem\.gradle\caches\transforms-4\382af8fd805b4aa3f18a3bf57e96fd06\transformed\annotation-experimental-1.4.1\res
+com.snappulse.app-material-icons-extended-release-18 C:\Users\Prem\.gradle\caches\transforms-4\3a0e8bab17d07f3b3ee8fc55708176ee\transformed\material-icons-extended-release\res
+com.snappulse.app-animation-core-release-19 C:\Users\Prem\.gradle\caches\transforms-4\42035141246b4c6e6049447d41dce78a\transformed\animation-core-release\res
+com.snappulse.app-emoji2-1.3.0-20 C:\Users\Prem\.gradle\caches\transforms-4\4a2931858aa398c832571ac10a56244c\transformed\emoji2-1.3.0\res
+com.snappulse.app-lifecycle-viewmodel-compose-release-21 C:\Users\Prem\.gradle\caches\transforms-4\4cb812653838cac40f9cad964fe897bb\transformed\lifecycle-viewmodel-compose-release\res
+com.snappulse.app-play-services-basement-18.4.0-22 C:\Users\Prem\.gradle\caches\transforms-4\4d32783af367f2c0d8f241d7d0f2f071\transformed\play-services-basement-18.4.0\res
+com.snappulse.app-camera-video-1.3.4-23 C:\Users\Prem\.gradle\caches\transforms-4\4d80d2aae27a9aec21de3c5858e7e897\transformed\camera-video-1.3.4\res
+com.snappulse.app-coil-base-2.7.0-24 C:\Users\Prem\.gradle\caches\transforms-4\4e4813842b5674e8b6fd8a25f4fe8631\transformed\coil-base-2.7.0\res
+com.snappulse.app-ui-graphics-release-25 C:\Users\Prem\.gradle\caches\transforms-4\5b2b16fb509298c2b26caa01708875d7\transformed\ui-graphics-release\res
+com.snappulse.app-savedstate-ktx-1.2.1-26 C:\Users\Prem\.gradle\caches\transforms-4\5ce8f1dcc9da418ce76f57fef10f4bd4\transformed\savedstate-ktx-1.2.1\res
+com.snappulse.app-ui-test-manifest-1.7.3-27 C:\Users\Prem\.gradle\caches\transforms-4\60be2fb098a227a8b040b3d7dfcb67c0\transformed\ui-test-manifest-1.7.3\res
+com.snappulse.app-core-1.13.1-28 C:\Users\Prem\.gradle\caches\transforms-4\64fac751d1f7c22fe673f4973f529963\transformed\core-1.13.1\res
+com.snappulse.app-lifecycle-runtime-compose-release-29 C:\Users\Prem\.gradle\caches\transforms-4\69bd5940593e3acbe32b6939b1ec90f1\transformed\lifecycle-runtime-compose-release\res
+com.snappulse.app-lifecycle-livedata-2.8.6-30 C:\Users\Prem\.gradle\caches\transforms-4\6e7c6702fe18e6d0d82b11f019c85c0d\transformed\lifecycle-livedata-2.8.6\res
+com.snappulse.app-recyclerview-1.3.0-31 C:\Users\Prem\.gradle\caches\transforms-4\7be4b2e6f4b102b300e999e1d23fb448\transformed\recyclerview-1.3.0\res
+com.snappulse.app-navigation-runtime-2.8.2-32 C:\Users\Prem\.gradle\caches\transforms-4\7c851fe71a74be17f938999a3eeac9e8\transformed\navigation-runtime-2.8.2\res
+com.snappulse.app-media-1.7.0-33 C:\Users\Prem\.gradle\caches\transforms-4\835549c9ab933455d573ccc84b08d825\transformed\media-1.7.0\res
+com.snappulse.app-graphics-path-1.0.1-34 C:\Users\Prem\.gradle\caches\transforms-4\84473cde9520c388a84ad40fc0195683\transformed\graphics-path-1.0.1\res
+com.snappulse.app-media3-exoplayer-1.4.1-35 C:\Users\Prem\.gradle\caches\transforms-4\943f235c0dfdc6c1a6cdb78f0b08d370\transformed\media3-exoplayer-1.4.1\res
+com.snappulse.app-core-ktx-1.13.1-36 C:\Users\Prem\.gradle\caches\transforms-4\9536e020629eb7e9c95a124c8d8a9065\transformed\core-ktx-1.13.1\res
+com.snappulse.app-navigation-common-ktx-2.8.2-37 C:\Users\Prem\.gradle\caches\transforms-4\967c3bf561b9666ba363fd06ba4652ec\transformed\navigation-common-ktx-2.8.2\res
+com.snappulse.app-navigation-common-2.8.2-38 C:\Users\Prem\.gradle\caches\transforms-4\9ba3695f450f1398c30b26bf9667bcbe\transformed\navigation-common-2.8.2\res
+com.snappulse.app-ui-text-release-39 C:\Users\Prem\.gradle\caches\transforms-4\9be175cb9c4645d149b894f6ea59ed1d\transformed\ui-text-release\res
+com.snappulse.app-camera-core-1.3.4-40 C:\Users\Prem\.gradle\caches\transforms-4\9c014e2b912256bbc6fb44c05284391d\transformed\camera-core-1.3.4\res
+com.snappulse.app-ui-tooling-release-41 C:\Users\Prem\.gradle\caches\transforms-4\a01ecbc5f5247f714a4caf312c136e53\transformed\ui-tooling-release\res
+com.snappulse.app-material3-release-42 C:\Users\Prem\.gradle\caches\transforms-4\a5d910ae22bc4e1024fe242f613c3120\transformed\material3-release\res
+com.snappulse.app-play-services-maps-19.0.0-43 C:\Users\Prem\.gradle\caches\transforms-4\a8ed18a3eaf876cf22eeaac28d162ef5\transformed\play-services-maps-19.0.0\res
+com.snappulse.app-lifecycle-viewmodel-release-44 C:\Users\Prem\.gradle\caches\transforms-4\af9fcb1bdc442a1adb19ecf606a81979\transformed\lifecycle-viewmodel-release\res
+com.snappulse.app-lifecycle-runtime-ktx-release-45 C:\Users\Prem\.gradle\caches\transforms-4\b485eb86c080469e1f158e27abe9ae29\transformed\lifecycle-runtime-ktx-release\res
+com.snappulse.app-lifecycle-viewmodel-savedstate-2.8.6-46 C:\Users\Prem\.gradle\caches\transforms-4\b503138b5f762a74ad068f6c7fa8b651\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.snappulse.app-activity-compose-1.9.2-47 C:\Users\Prem\.gradle\caches\transforms-4\b7e0e0e657cfe45e15d6f105427e6305\transformed\activity-compose-1.9.2\res
+com.snappulse.app-navigation-compose-2.8.2-48 C:\Users\Prem\.gradle\caches\transforms-4\b9c49ff9297623df4fe36f276afcea4e\transformed\navigation-compose-2.8.2\res
+com.snappulse.app-lifecycle-runtime-release-49 C:\Users\Prem\.gradle\caches\transforms-4\bc954e217dbb8883e42be7f3b1ac3fab\transformed\lifecycle-runtime-release\res
+com.snappulse.app-activity-1.9.2-50 C:\Users\Prem\.gradle\caches\transforms-4\c1c0eff76c8aac8a6b5b55e3ffcd7807\transformed\activity-1.9.2\res
+com.snappulse.app-startup-runtime-1.1.1-51 C:\Users\Prem\.gradle\caches\transforms-4\c721813690cebc1afcc2b51e6650bb17\transformed\startup-runtime-1.1.1\res
+com.snappulse.app-lifecycle-livedata-core-ktx-2.8.6-52 C:\Users\Prem\.gradle\caches\transforms-4\c8032b1a1e6a3c874936e047a0afd3e5\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.snappulse.app-android-maps-utils-3.7.0-53 C:\Users\Prem\.gradle\caches\transforms-4\c9709612c78af6b20392ff9db3453f5a\transformed\android-maps-utils-3.7.0\res
+com.snappulse.app-savedstate-1.2.1-54 C:\Users\Prem\.gradle\caches\transforms-4\c996c21d81d5d8cfd47a21d0666d3195\transformed\savedstate-1.2.1\res
+com.snappulse.app-foundation-release-55 C:\Users\Prem\.gradle\caches\transforms-4\d44cbec8382effe3b62aeff23688ff7f\transformed\foundation-release\res
+com.snappulse.app-ui-tooling-data-release-56 C:\Users\Prem\.gradle\caches\transforms-4\db2899e4ae69331fef7284c7dd7d941d\transformed\ui-tooling-data-release\res
+com.snappulse.app-animation-release-57 C:\Users\Prem\.gradle\caches\transforms-4\dbe75f70f38f7e83763f997d85279c10\transformed\animation-release\res
+com.snappulse.app-profileinstaller-1.3.1-58 C:\Users\Prem\.gradle\caches\transforms-4\e040968285d75650bf1de2c001e995ee\transformed\profileinstaller-1.3.1\res
+com.snappulse.app-ui-tooling-preview-release-59 C:\Users\Prem\.gradle\caches\transforms-4\e784048df762388802c65c4993784545\transformed\ui-tooling-preview-release\res
+com.snappulse.app-material-ripple-release-60 C:\Users\Prem\.gradle\caches\transforms-4\e9f763c869d163750ac0347b109a919c\transformed\material-ripple-release\res
+com.snappulse.app-navigation-runtime-ktx-2.8.2-61 C:\Users\Prem\.gradle\caches\transforms-4\ea5e88ad1d7a6795780160df17a87a3e\transformed\navigation-runtime-ktx-2.8.2\res
+com.snappulse.app-runtime-release-62 C:\Users\Prem\.gradle\caches\transforms-4\eadaeb1a678af4f37556ee8110752e9b\transformed\runtime-release\res
+com.snappulse.app-appcompat-1.6.1-63 C:\Users\Prem\.gradle\caches\transforms-4\eb256c187b77e6e49d873ac8d9155c51\transformed\appcompat-1.6.1\res
+com.snappulse.app-lifecycle-process-2.8.6-64 C:\Users\Prem\.gradle\caches\transforms-4\fb28b0181abf2919b5d9ada838ce36c9\transformed\lifecycle-process-2.8.6\res
+com.snappulse.app-emoji2-views-helper-1.3.0-65 C:\Users\Prem\.gradle\caches\transforms-4\fc6ac60bb1b0aa0118ba1223a2b3968c\transformed\emoji2-views-helper-1.3.0\res
+com.snappulse.app-ui-release-66 C:\Users\Prem\.gradle\caches\transforms-4\fcedd5df4868c004421d317b9763f5c2\transformed\ui-release\res
+com.snappulse.app-lifecycle-viewmodel-ktx-2.8.6-67 C:\Users\Prem\.gradle\caches\transforms-4\fd894f87df80c5fc69288734708af4dc\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.snappulse.app-ui-util-release-68 C:\Users\Prem\.gradle\caches\transforms-4\fe5a19ad959eff79589053e8eb24ea75\transformed\ui-util-release\res
+com.snappulse.app-foundation-layout-release-69 C:\Users\Prem\.gradle\caches\transforms-4\ff627b1bab7c1adf0f8b8c6e59cdacc3\transformed\foundation-layout-release\res
+com.snappulse.app-resValues-70 D:\project android\project android\SnapPulse\app\build\generated\res\resValues\debug
+com.snappulse.app-packageDebugResources-71 D:\project android\project android\SnapPulse\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.snappulse.app-packageDebugResources-72 D:\project android\project android\SnapPulse\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.snappulse.app-debug-73 D:\project android\project android\SnapPulse\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.snappulse.app-debug-74 D:\project android\project android\SnapPulse\app\src\debug\res
+com.snappulse.app-main-75 D:\project android\project android\SnapPulse\app\src\main\res

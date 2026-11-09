@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Snapchat Signature Palette -->
+    <color name="snap_yellow">#FFFC00</color>
+    <color name="snap_black">#0E0E10</color>
+    <color name="snap_dark_gray">#18181B</color>
+    <color name="snap_surface">#222226</color>
+    <color name="snap_white">#FFFFFF</color>
+    <color name="snap_blue_chat">#00A8FF</color>
+    <color name="snap_red_snap">#FF2A6D</color>
+    <color name="snap_purple_video">#9B51E0</color>
+    <color name="snap_green_online">#00E676</color>
+</resources>
